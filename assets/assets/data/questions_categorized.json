@@ -1,1419 +1,1182 @@
 {
   "Santé": [
     {
-      "question": "Être en bonne santé, ça veut dire?",
+      "question": "Être en bonne santé, ça veut dire quoi ?",
       "reponses": [
-        "- ne pas être triste",
-        "- ne pas avoir mal",
-        "- ne pas prendre de médicaments",
-        "- ne pas avoir de soins à effectuer",
-        "- ne pas avoir de rendez-vous chez le Médecin, la psychologue, le dentiste, le kiné, Etc."
+        "ne pas être triste",
+        "ne pas avoir mal",
+        "ne pas prendre de médicaments",
+        "ne pas avoir de soins à effectuer",
+        "ne pas avoir de rendez-vous chez le médecin, la psychologue, le dentiste, le kiné, etc."
       ]
     },
     {
-      "question": "Que faites-vous pour être en?",
+      "question": "Que faites-vous pour être en bonne santé ?",
       "reponses": [
-        "- Je prends mes médicaments",
-        "- Je mange de tout (de la viande, des fruits,",
-        "Des légumes, des laitages…)",
-        "- Je pratique du sport (je marche tous les",
-        "Jours)",
-        "- Je vais chez le médecin (docteur) pour",
-        "Savoir si tout va bien"
+        "Je prends mes médicaments",
+        "Je mange de tout (de la viande, des fruits, des légumes, des laitages...)",
+        "Je pratique du sport (je marche tous les jours)",
+        "Je vais chez le médecin (docteur) pour savoir si tout va bien"
       ]
     },
     {
-      "question": "Qu’est-ce qui peut nous rendre?",
+      "question": "Qu’est-ce qui peut nous rendre dépendants ?",
       "reponses": [
-        "- L’alcool",
-        "- Le tabac",
-        "- La drogue",
-        "- La nourriture",
-        "- Les jeux d’argent",
-        "- Les écrans",
-        "- Le sexe"
+        "L’alcool",
+        "Le tabac",
+        "La drogue",
+        "La nourriture",
+        "Les jeux d’argent",
+        "Les écrans",
+        "Le sexe"
       ]
     },
     {
-      "question": "De quels papiers avez-vous besoin?",
+      "question": "De quels papiers avez-vous besoin pour aller chez le médecin ?",
       "reponses": [
-        "- Une carte vitale",
-        "- Une CMU ou une carte de mutuelle",
-        "- Un carnet de vaccination",
-        "- Un carnet de santé"
+        "Une carte vitale",
+        "Une CMU ou une carte de mutuelle",
+        "Un carnet de vaccination",
+        "Un carnet de santé"
       ]
     },
     {
-      "question": "Quelles émotions connaissez-?",
+      "question": "Que faites-vous quand vous avez mal à la tête ?",
       "reponses": [
-        "- La joie",
-        "- La colère",
-        "- La peur",
-        "- La tristesse",
-        "- La surprise",
-        "- Le dégoût"
+        "Je prends un médicament",
+        "Je vais chez le médecin ou chez l’infirmière",
+        "Je le dis à quelqu’un (ma maman, mon frère, mon éducateur...)",
+        "Je me détends, je respire, je fais de la relaxation/méditation",
+        "Je mets de la glace ou du chaud là où j’ai mal",
+        "Je ne fais rien, j’attends que la douleur passe"
       ]
     },
     {
-      "question": "Que faites-vous quand vous avez?",
+      "question": "Quelles émotions connaissez-vous ?",
       "reponses": [
-        "- Je prends un médicament",
-        "- Je vais chez le médecin ou chez l’infirmière",
-        "- Je le dis à quelqu’un (ma maman, mon frère,",
-        "Mon éducateur…)",
-        "- Je me détends, je respire, je fais de la",
-        "Relaxation/méditation",
-        "- Je mets de la glace ou du chaud là où j’ai mal",
-        "- Je ne fais rien, j’attends que la douleur passe"
+        "La joie",
+        "La colère",
+        "La peur",
+        "La tristesse",
+        "La surprise",
+        "Le dégoût"
       ]
     },
     {
-      "question": "Qu’est-ce qui vous arrive quand?",
+      "question": "Qu’est-ce qui vous arrive quand vous êtes trop fatigué ?",
       "reponses": [
-        "- Je n’arrive pas à m’endormir",
-        "- Je m’endors dans la journée",
-        "- Je pleure",
-        "- Je me mets en colère",
-        "- Je tombe",
-        "- Je cherche mes mots"
+        "Je n’arrive pas à m’endormir",
+        "Je m’endors dans la journée",
+        "Je pleure",
+        "Je me mets en colère",
+        "Je tombe",
+        "Je cherche mes mots"
       ]
     },
     {
-      "question": "De quels papiers avez-vous besoin?",
+      "question": "Manger équilibré, ça veut dire quoi ?",
       "reponses": [
-        "- Une carte vitale",
-        "- Une CMU ou une carte de mutuelle",
-        "- Une ordonnance"
+        "Manger tous les jours 5 fruits et légumes",
+        "Manger peu de sucre et peu de graisse",
+        "Manger de tout",
+        "Ne pas manger toujours la même chose (changer de recettes)"
       ]
     },
     {
-      "question": "Manger équilibré, ça veut dire?",
+      "question": "Quelles maladies contagieuses connaissez-vous ?",
       "reponses": [
-        "- Manger tous les jours 5 fruits et légumes",
-        "- Manger peu de sucre et peu de graisse",
-        "- Manger de tout",
-        "- Ne pas manger toujours la même chose",
-        "(changer de recettes)"
+        "La grippe",
+        "Langine",
+        "La varicelle",
+        "La mononucléose",
+        "Le cytomégalovirus",
+        "L’hépatite B, C",
+        "Le papillomavirus",
+        "La rhinopharyngite",
+        "Le VIH"
       ]
     },
     {
-      "question": "Quelles maladies contagieuses?",
+      "question": "Quels médecins spécialistes connaissez-vous ?",
       "reponses": [
-        "- La grippe",
-        "- L’angine",
-        "- La varicelle",
-        "- La mononucléose",
-        "- Le cytomégalovirus",
-        "- L’hépatite B, C",
-        "- Le papillomavirus",
-        "- La rhinopharyngite",
-        "- Le VIH"
-      ]
-    },
-    {
-      "question": "Quels médecins spécialistes?",
-      "reponses": [
-        "- Dermatologue",
-        "- Endocrinologue",
-        "- Gastro-entérologue",
-        "- Neurologue",
-        "- Cardiologue",
-        "- ORL",
-        "- Le gynécologue",
-        "- Le pneumologue",
-        "- Le rhumatologue"
+        "Dermatologue",
+        "Endocrinologue",
+        "Gastro-entérologue",
+        "Neurologue",
+        "Cardiologue",
+        "ORL",
+        "Le gynécologue",
+        "Le pneumologue",
+        "Le rhumatologue"
       ]
     }
   ],
-  "Travail": [
+  "Travail":[
     {
-      "question": "Pourquoi avez-vous envie de?",
+      "question": "Pourquoi avez-vous envie de travailler ?",
       "reponses": [
-        "- Avoir de l’argent (un salaire)",
-        "- Avoir des relations sociales (des collègues,",
-        "Des amis…)",
-        "- Être reconnu (accepté, valorisé)",
-        "- Apprendre à faire de nouvelles choses",
-        "(développer mes compétences)"
+        "Avoir de l’argent (un salaire)",
+        "Avoir des relations sociales (des collègues, des amis...)",
+        "Être reconnu (accepté, valorisé)",
+        "Apprendre à faire de nouvelles choses (développer mes compétences)"
       ]
     },
     {
-      "question": "Quelle est votre situation d’emploi?",
+      "question": "Quelle est votre situation d’emploi (statut actuel) ?",
       "reponses": [
-        "- Je suis demandeur d’emploi (à la recherche",
-        "D’un emploi)",
-        "- Je suis bénévole",
-        "- Je suis travailleur d’ESAT",
-        "- Je suis salarié dans une entreprise adaptée",
-        "- Je suis salarié (ouvrier, employé, cadre)",
-        "- Je suis travailleur indépendant",
-        "- Je ne travaille pas, je suis malade/handicapé",
-        "- Je suis en formation, je fais des stages en",
-        "Entreprise"
+        "Je suis demandeur d’emploi (à la recherche d’un emploi)",
+        "Je suis bénévole",
+        "Je suis travailleur d’ESAT",
+        "Je suis salarié dans une entreprise adaptée",
+        "Je suis salarié (ouvrier, employé, cadre)",
+        "Je suis travailleur indépendant",
+        "Je ne travaille pas, je suis malade/handicapé",
+        "Je suis en formation, je fais des stages en entreprise"
       ]
     },
     {
-      "question": "Quels sont les droits d’un?",
+      "question": "Quels sont les droits d’un travailleur/salarié ?",
       "reponses": [
-        "- Rémunération",
-        "- Contrat de travail",
-        "- Congés",
-        "- Formation",
-        "- Droit de grève",
-        "- Travailler en sécurité"
+        "Rémunération",
+        "Contrat de travail",
+        "Congés",
+        "Formation",
+        "Droit de grève",
+        "Travailler en sécurité"
       ]
     },
     {
-      "question": "De quoi avez-vous besoin au?",
+      "question": "De quoi avez-vous besoin au travail ?",
       "reponses": [
-        "- D’avoir des tâches différentes",
-        "- De bouger",
-        "- D’être en contact avec du public",
-        "- De travailler dans un endroit calme",
-        "- D’avoir des tâches répétitives",
-        "- De faire des tâches manuelles",
-        "- D’avoir des missions créatives",
-        "- De travailler dehors"
-      ]
-    },
-    {
-      "question": "Quelles sont vos conditions /?",
-      "reponses": [
-        "- Un travail proche de chez moi",
-        "- Un travail à temps partiel",
-        "- Un CDI",
-        "- Un « bon » salaire",
-        "- Des missions que j’aime",
-        "- Une entreprise bienveillante, handi-",
-        "Accueillante",
-        "- Beaucoup de congés",
-        "- Une grande entreprise, pour pouvoir",
-        "Évoluer dans ma carrière"
+        "D’avoir des tâches différentes",
+        "De bouger",
+        "D’être en contact avec du public",
+        "De travailler dans un endroit calme",
+        "D’avoir des tâches répétitives",
+        "De faire des tâches manuelles",
+        "D’avoir des missions créatives",
+        "De travailler dehors"
       ]
     },
     {
       "question": "Travailler, ça veut dire quoi ?",
       "reponses": [
-        "- Gagner de l’argent",
-        "- Avoir un contrat de travail",
-        "- Avoir des congés (partir en vacances...)",
-        "- Avoir des collègues"
+        "Gagner de l’argent",
+        "Avoir un contrat de travail",
+        "Avoir des congés (partir en vacances...)",
+        "Avoir des collègues"
       ]
     },
     {
-      "question": "Quelles informations trouvez-vous?",
+      "question": "Quelles sont vos conditions / exigences pour accepter un travail ?",
       "reponses": [
-        "- Ma fonction",
-        "- La durée du contrat",
-        "- Mon nombre d’heures de travail",
-        "- Ma rémunération",
-        "- Mes congés",
-        "- La durée de ma période d’essai",
-        "- La durée de mon préavis"
+        "Un travail proche de chez moi",
+        "Un travail à temps partiel",
+        "Un CDI",
+        "Un « bon » salaire",
+        "Des missions que j'aime",
+        "Une entreprise bienveillante, handicap accueillante",
+        "Beaucoup de congés",
+        "Une grande entreprise, pour pouvoir évoluer dans ma carrière"
       ]
     },
     {
-      "question": "Pourquoi avez-vous envie de?",
+      "question": "Quelles informations trouvez-vous sur un contrat de travail ?",
       "reponses": [
-        "- Je n’aime plus ce que je fais",
-        "- Je ne gagne pas assez d’argent",
-        "- Ma santé m’empêche d’effectuer mon travail",
-        "- Je n’aime plus travailler dans l’entreprise",
-        "- Je ne veux plus être tout le temps avec des",
-        "Personnes handicapées"
+        "Ma fonction",
+        "La durée du contrat",
+        "Mon nombre d’heures de travail",
+        "Ma rémunération",
+        "Mes congés",
+        "La durée de ma période d’essai",
+        "La durée de mon préavis"
       ]
     },
     {
-      "question": "Quels sont les devoirs des?",
+      "question": "Quels sont les devoirs des travailleurs / salariés ?",
       "reponses": [
-        "- Respecter ses horaires",
-        "- Effectuer le travail demandé",
-        "- Respecter son contrat de travail",
-        "- Respecter le règlement",
-        "- Respecter les consignes de sécurité"
+        "Respecter ses horaires",
+        "Effectuer le travail demandé",
+        "Respecter son contrat de travail",
+        "Respecter le règlement",
+        "Respecter les consignes de sécurité"
       ]
     },
     {
-      "question": "Si vous pouviez changer de?",
+      "question": "Si vous pouviez changer de situation professionnelle, de quel statut auriez-vous envie ?",
       "reponses": [
-        "- Bénévole",
-        "- À la recherche d’un autre travail",
-        "- Salarié en milieu ordinaire",
-        "- En formation, pour apprendre un nouveau",
-        "Métier",
-        "- Travailleur en ESAT",
-        "- Retraité"
+        "Bénévole",
+        "À la recherche d’un autre travail",
+        "Salarié en milieu ordinaire",
+        "En formation, pour apprendre un nouveau métier",
+        "Travailleur en ESAT",
+        "Retraité"
       ]
     },
     {
-      "question": "Quels secteurs d’activités?",
+      "question": "Quels secteurs d’activités connaissez-vous ?",
       "reponses": [
-        "- Agriculture et agroalimentaire",
-        "- Études et recherche",
-        "- Transport et logistique",
-        "- Télécoms et Internet",
-        "- Finance et assurance",
-        "- Commerce et artisanat",
-        "- Industrie",
-        "- Tourisme",
-        "- Energie"
+        "Agriculture et agroalimentaire",
+        "Études et recherche",
+        "Transport et logistique",
+        "Télécoms et Internet",
+        "Finance et assurance",
+        "Commerce et artisanat",
+        "Industrie",
+        "Tourisme",
+        "Energie"
       ]
     }
   ],
-  "Vie affective et sexuelle": [
+  "Vie \naffective \net sexuelle":[
     {
-      "question": "Quelles orientations sexuelles?",
+      "question": "Quelles orientations sexuelles connaissez-vous ?",
       "reponses": [
-        "- L’hétérosexualité",
-        "- L’homosexualité",
-        "- La bisexualité",
-        "- L’asexualité",
-        "- La pansexualité",
-        "- La sapiosexualité"
+        "L'hétérosexualité",
+        "L'homosexualité",
+        "La bisexualité",
+        "L'asexualité",
+        "La pansexualité",
+        "La sapiosexualité"
       ]
     },
     {
-      "question": "Avoir une vie sexuelle, ça veut?",
+      "question": "Avoir une vie sexuelle, ça veut dire quoi ?",
       "reponses": [
-        "- Dormir ensemble",
-        "- S’embrasser",
-        "- Faire des câlins",
-        "- Faire des caresses",
-        "- Réaliser un acte sexuel (pénétration",
-        "Vaginale, pénétration anale, masturbation…)"
+        "Dormir ensemble",
+        "S’embrasser",
+        "Faire des câlins",
+        "Faire des caresses",
+        "Réaliser un acte sexuel (pénétration vaginale, pénétration anale, masturbation...)"
       ]
     },
     {
-      "question": "Comment pouvez-vous identifier?",
+      "question": "Comment pouvez-vous identifier un corps exprimant du désir ?",
       "reponses": [
-        "- Avoir des frissons",
-        "- Avoir une érection",
-        "- Avoir des sécrétions vaginales",
-        "- Avoir une augmentation du rythme",
-        "Cardiaque"
+        "Avoir des frissons",
+        "Avoir une érection",
+        "Avoir des sécrétions vaginales",
+        "Avoir une augmentation du rythme cardiaque"
       ]
     },
     {
-      "question": "Quels sont les différents moyens?",
+      "question": "Quels sont les différents moyens de contraception ?",
       "reponses": [
-        "- L’implant",
-        "- Le stérilet hormonal",
-        "- Le stérilet en cuivre",
-        "- La pilule",
-        "- L’anneau vaginal",
-        "- Les préservatifs masculins et féminins",
-        "- Le patch"
+        "L’implant",
+        "Le stérilet hormonal",
+        "Le stérilet en cuivre",
+        "La pilule",
+        "L’anneau vaginal",
+        "Les préservatifs masculins et féminins",
+        "Le patch"
       ]
     },
     {
-      "question": "Quelles infections sexuellement?",
+      "question": "Comment pouvez-vous rencontrer quelqu’un ?",
       "reponses": [
-        "- Le VIH",
-        "- La syphilis",
-        "- Le papillomavirus",
-        "- L’herpès génital",
-        "- La chlamydiose",
-        "- La gonococcie",
-        "- Le mycoplasme"
+        "Le cercle de connaissance (amis, famille, collègue...)",
+        "Les réseaux sociaux",
+        "Les sites de rencontre",
+        "Grâce à une agence matrimoniale",
+        "En participant à des événements de rencontre (speed dating)"
       ]
     },
     {
-      "question": "Comment pouvez-vous?",
+      "question": "Quelles infections sexuellement transmissibles (IST) connaissez-vous ?",
       "reponses": [
-        "- Le cercle de connaissance (amis, famille,",
-        "Collègue…)",
-        "- Les réseaux sociaux",
-        "- Les sites de rencontre",
-        "- Grâce à une agence matrimoniale",
-        "- En participant à des événements de",
-        "Rencontre (speed dating)"
+        "Le VIH",
+        "La syphilis",
+        "Le papillomavirus",
+        "L'herpès génital",
+        "La chlamydiose",
+        "La gonococcie",
+        "Le mycoplasme"
       ]
     },
     {
-      "question": "Comment peut-on attraper une?",
+      "question": "Comment peut-on attraper une IST (infection sexuellement transmissible) ?",
       "reponses": [
-        "- Transmission vaginale",
-        "- Transmission anale",
-        "- Transmission orale",
-        "- Transmission sanguine"
+        "Transmission vaginale",
+        "Transmission anale",
+        "Transmission orale",
+        "Transmission sanguine"
       ]
     },
     {
-      "question": "Quel type de relation affective ou?",
+      "question": "Quelles sont les étapes de la parentalité ?",
       "reponses": [
-        "- Une relation amicale",
-        "- Une relation avec de multiples partenaires",
-        "- Une relation homosexuelle",
-        "- Une relation hétérosexuelle",
-        "- Une relation libre",
-        "- Une relation amoureuse"
+        "Choisir de devenir parent",
+        "La grossesse",
+        "La naissance",
+        "La petite enfance",
+        "L’adolescence",
+        "L’âge adulte"
       ]
     },
     {
-      "question": "Quelles sont les étapes de la?",
+      "question": "Quelles sont les différentes formes de violence conjugales ?",
       "reponses": [
-        "- Choisir de devenir parent",
-        "- La grossesse",
-        "- La naissance",
-        "- La petite enfance",
-        "- L’adolescence",
-        "- L’âge adulte"
+        "La violence verbale : ordres, cris, insultes...",
+        "La violence physique : coups, brûlures, morsures…",
+        "La violence psychologique : isolement social, dévalorisation de l’autre, casse d’objets de valeurs…"
       ]
     },
     {
-      "question": "Quelles sont les différentes formes?",
+      "question": "Pour quelles raisons prendre un rendez-vous avec un gynécologue ou un andrologue ?",
       "reponses": [
-        "- La violence verbale : ordres, cris, insultes...",
-        "- La violence physique : coups, brûlures,",
-        "Morsures…",
-        "- La violence psychologique : isolement",
-        "Social, dévalorisation de l’autre, casse",
-        "D’objets de valeurs…"
-      ]
-    },
-    {
-      "question": "Pour quelles raisons prendre?",
-      "reponses": [
-        "- Pour un suivi préventif",
-        "- Pour obtenir un moyen de contraception",
-        "- Pour des difficultés pour concevoir un",
-        "Enfant",
-        "- En cas de grossesse",
-        "- En cas de pertes vaginales colorées",
-        "- En cas de douleurs intenses",
-        "- En cas de saignement",
-        "- En cas de rapport sexuel non protégé"
+        "Pour un suivi préventif",
+        "Pour obtenir un moyen de contraception",
+        "Pour des difficultés pour concevoir un enfant",
+        "En cas de grossesse",
+        "En cas de pertes vaginales colorées",
+        "En cas de douleurs intenses",
+        "En cas de saignement",
+        "En cas de rapport sexuel non protégé"
       ]
     }
   ],
-  "Numérique": [
+  "Numérique":[
     {
-      "question": "Quels appareils électroniques?",
+      "question": "Quels appareils électroniques connaissez-vous ?",
       "reponses": [
-        "- Un téléphone portable (smartphone)",
-        "- La télévision",
-        "- Un ordinateur",
-        "- Une tablette",
-        "- Une enceinte connectée",
-        "- Une montre connectée",
-        "- Une console de jeux"
+        "Un téléphone portable (smartphone)",
+        "La télévision",
+        "Un ordinateur",
+        "Une tablette",
+        "Une enceinte connectée",
+        "Une montre connectée",
+        "Une console de jeux"
       ]
     },
     {
-      "question": "Que savez-vous faire avec un?",
+      "question": "Que savez-vous faire avec un ordinateur ?",
       "reponses": [
-        "- Taper un texte",
-        "- Faire un diaporama",
-        "- Enregistrer et classer un document",
-        "- Imprimer ou scanner des documents",
-        "- Lire ou envoyer un mail",
-        "- Rechercher des informations sur internet",
-        "- Aller sur les réseaux sociaux (Facebook,",
-        "Snapchat, Instagram, Tiktok...)",
-        "- Regarder des films ou séries (Netflix, prime",
-        "Vidéo, Apple tv...)"
+        "Taper un texte",
+        "Faire un diaporama",
+        "Enregistrer et classer un document",
+        "Imprimer ou scanner des documents",
+        "Lire ou envoyer un mail",
+        "Rechercher des informations sur internet",
+        "Aller sur les réseaux sociaux (Facebook, Snapchat, Instagram, Tiktok...)",
+        "Regarder des films ou séries (Netflix, prime vidéo, Apple tv...)"
       ]
     },
     {
-      "question": "Quels appareils électroniques?",
+      "question": "Quels appareils électroniques aimeriez-vous apprendre à utiliser ?",
       "reponses": [
-        "- Un téléphone portable (smartphone)",
-        "- La télévision",
-        "- Un ordinateur",
-        "- Une tablette",
-        "- Une enceinte connectée",
-        "- Une montre connectée",
-        "- Une console de jeux",
-        "- Aucun"
+        "Un téléphone portable (smartphone)",
+        "La télévision",
+        "Un ordinateur",
+        "Une tablette",
+        "Une enceinte connectée",
+        "Une montre connectée",
+        "Une console de jeux",
+        "Aucun"
       ]
     },
     {
-      "question": "Qu’avez-vous envie d’apprendre à?",
+      "question": "Que vous arrive-t-il quand vous passez trop de temps devant les écrans ?",
       "reponses": [
-        "- Taper un texte",
-        "- Faire un diaporama",
-        "- Enregistrer et classer un document",
-        "- Imprimer ou scanner des documents",
-        "- Lire ou envoyer un mail",
-        "- Rechercher des informations sur internet",
-        "- Aller sur les réseaux sociaux (facebook,",
-        "Snapchat, instagram, tiktok...)",
-        "- Regarder des films ou séries (netflix, prime",
-        "Vidéo, apple tv...)"
+        "J’ai mal aux yeux, je vois moins bien",
+        "J’ai mal à la tête",
+        "Je prends du poids",
+        "Je reste seul",
+        "J’ai des douleurs (dos, cou, épaules...)",
+        "J’ai du mal à m’endormir",
+        "Je n’arrive pas à me concentrer"
       ]
     },
     {
-      "question": "Que vous arrive-t-il quand vous?",
+      "question": "Sur internet, si on vous demande des informations personnelles (coordonnées bancaires...), que faites-vous ?",
       "reponses": [
-        "- J’ai mal aux yeux, je vois moins bien",
-        "- J’ai mal à la tête",
-        "- Je prends du poids",
-        "- Je reste seul",
-        "- J’ai des douleurs (dos, cou, épaules...)",
-        "- J’ai du mal à m’endormir",
-        "- Je n’arrive pas à me concentrer"
+        "C’est normal, je fais des achats sur internet",
+        "Je ne donne pas les informations, je ne suis pas en train de faire des achats",
+        "Je vérifie que le site est officiel avant d’enregistrer mon RIB (impôts, CAF...)",
+        "Je ne donne jamais mes informations sur internet"
       ]
     },
     {
-      "question": "Sur internet, si on vous demande?",
+      "question": "Pourquoi utilisez-vous un téléphone portable ?",
       "reponses": [
-        "- C’est normal, je fais des achats sur internet",
-        "- Je ne donne pas les informations, je ne suis",
-        "Pas en train de faire des achats",
-        "- Je vérifie que le site est officiel avant",
-        "D’enregistrer mon RIB (impôts, CAF...)",
-        "- Je ne donne jamais mes informations sur",
-        "Internet"
+        "Pour appeler",
+        "Pour lire ou envoyer des mails",
+        "Pour effectuer des recherches sur internet",
+        "Pour jouer",
+        "Pour lire les informations",
+        "Pour communiquer sur les réseaux sociaux",
+        "Pour gérer son agenda",
+        "Pour regarder des vidéos",
+        "Pour enregistrer des rappels"
       ]
     },
     {
-      "question": "On vous demande en ami sur un?",
+      "question": "Quels réseaux sociaux connaissez-vous ?",
       "reponses": [
-        "- J’accepte (sans hésiter)",
-        "- Je vérifie si je connais la personne",
-        "- Je vérifie si nous avons des amis en commun",
-        "- Je refuse l’invitation",
-        "- Je demande conseil à un proche avant",
-        "D’accepter"
+        "Facebook",
+        "Instagram",
+        "TikTok",
+        "Snapchat",
+        "WhatsApp",
+        "LinkedIn",
+        "YouTube",
+        "Twitter",
+        "Discord"
       ]
     },
     {
-      "question": "Pourquoi utilisez-vous un?",
+      "question": "Vous souhaitez envoyer un mail que faites-vous ?",
       "reponses": [
-        "- Pour appeler",
-        "- Pour lire ou envoyer des mails",
-        "- Pour effectuer des recherches sur internet",
-        "- Pour jouer",
-        "- Pour lire les informations",
-        "- Pour communiquer sur les réseaux sociaux",
-        "- Pour gérer son agenda",
-        "- Pour regarder des vidéos",
-        "- Pour enregistrer des rappels"
+        "Je vérifie l’adresse mail du destinataire",
+        "J’écris mon message",
+        "Je peux ajouter une pièce jointe à mon mail",
+        "Je peux ajouter des personnes en copie de mon mail",
+        "Je peux ajouter ma signature",
+        "Je peux utiliser le correcteur orthographique"
       ]
     },
     {
-      "question": "Quels réseaux sociaux?",
+      "question": "Vous voulez effectuer une recherche sur internet que faites-vous ?",
       "reponses": [
-        "- Facebook",
-        "- Instagram",
-        "- TikTok",
-        "- Snapchat",
-        "- WhatsApp",
-        "- LinkedIn",
-        "- YouTube",
-        "- Twitter",
-        "- Discord"
-      ]
-    },
-    {
-      "question": "Vous souhaitez envoyer un mail?",
-      "reponses": [
-        "- Je vérifie l’adresse mail du destinataire",
-        "- J’écris mon message",
-        "- Je peux ajouter une pièce jointe à mon mail",
-        "- Je peux ajouter des personnes en copie de",
-        "Mon mail",
-        "- Je peux ajouter ma signature",
-        "- Je peux utiliser le correcteur",
-        "Orthographique"
-      ]
-    },
-    {
-      "question": "Vous voulez effectuer une?",
-      "reponses": [
-        "- J’ouvre un navigateur de recherche",
-        "(Google, Bing, Yahoo, Mozilla, Microsoft",
-        "Edge…)",
-        "- J’utilise des mots clés",
-        "- Je regarde plusieurs pages pour comparer",
-        "Les résultats"
+        "J’ouvre un navigateur de recherche (Google, Bing, Yahoo, Mozilla, Microsoft Edge…)",
+        "J’utilise des mots clés",
+        "Je regarde plusieurs pages pour comparer les résultats"
       ]
     }
   ],
-  "Loisirs": [
+  "Loisirs":[
     {
       "question": "Quels sont vos loisirs ?",
       "reponses": [
-        "- Je pratique du sport (foot, natation, danse...)",
-        "- Je fais de l’art (peinture, du dessin, de la",
-        "Sculpture...)",
-        "- Je vois des amis",
-        "- Je voyage",
-        "- Je vais au cinéma, au musée, au théâtre….",
-        "- Je n’en ai pas"
+        "Je pratique du sport (foot, natation, danse...)",
+        "Je fais de l’art (peinture, du dessin, de la sculpture...)",
+        "Je vois des amis",
+        "Je voyage",
+        "Je vais au cinéma, au musée, au théâtre...",
+        "Je n’en ai pas"
       ]
     },
     {
-      "question": "Quel sport avez-vous envie de?",
+      "question": "Quel sport avez-vous envie de faire ?",
       "reponses": [
-        "- Un sport d’équipe (football, handball,",
-        "Volleyball, …)",
-        "- Un sport de raquette (tennis, badminton, …)",
-        "- Un sport aquatique (natation, aquagym,",
-        "Aqua bike, canoé, aviron…)",
-        "- Un sport artistique (gym, danse…)",
-        "- Un sport de combat (judo, box, escrime…)",
-        "- Un sport de glisse (roller, ski, VTT…)",
-        "- Un sport d’endurance (marche, randonnée,",
-        "Course à pied, fitness…)"
+        "Un sport d’équipe (football, handball, volleyball, ...)",
+        "Un sport de raquette (tennis, badminton, ...)",
+        "Un sport aquatique (natation, aquagym, aqua bike, canoé, aviron...)",
+        "Un sport artistique (gym, danse...)",
+        "Un sport de combat (judo, box, escrime...)",
+        "Un sport de glisse (roller, ski, VTT...)",
+        "Un sport d’endurance (marche, randonnée, course à pied, fitness...)"
       ]
     },
     {
-      "question": "De quoi avez-vous besoin, pour?",
+      "question": "De quoi avez-vous besoin, pour pouvoir choisir vos loisirs ?",
       "reponses": [
-        "- J’ai besoin de découvrir des activités",
-        "(adaptées et qui me plaisent)",
-        "- J’ai besoin d’argent (budget dédié)",
-        "- J’ai besoin d’aide pour y aller",
-        "- J’ai envie de faire une activité avec quelqu’un",
-        "(un ami, une personne de ma famille, un",
-        "Pro...)"
+        "J’ai besoin de découvrir des activités (adaptées et qui me plaisent)",
+        "J’ai besoin d’argent (budget dédié)",
+        "J’ai besoin d’aide pour y aller",
+        "J’ai envie de faire une activité avec quelqu’un (un ami, une personne de ma famille, un pro...)"
       ]
     },
     {
-      "question": "Quelles activités culturelles ou?",
+      "question": "Quelles activités culturelles ou artistique aimeriez-vous faire ?",
       "reponses": [
-        "- Sortie au musée",
-        "- Sortie au théâtre",
-        "- Sortie au cinéma",
-        "- Peinture, dessin",
-        "- Photographie",
-        "- Loisirs créatifs",
-        "- Poterie",
-        "- Tricot",
-        "- Aucune"
+        "Sortie au musée",
+        "Sortie au théâtre",
+        "Sortie au cinéma",
+        "Peinture, dessin",
+        "Photographie",
+        "Loisirs créatifs",
+        "Poterie",
+        "Tricot",
+        "Aucune"
       ]
     },
     {
-      "question": "Pour faire du sport, de quoi avez-?",
+      "question": "Pour faire du sport, de quoi avez-vous besoin ?",
       "reponses": [
-        "- J’ai besoin d’une tenue de sport",
-        "- J’ai besoin d’un certificat médical",
-        "- J’ai besoin d’un abonnement ou d’une licence",
-        "- J’ai besoin d’un club (une association ou un",
-        "Lieu de pratique)"
+        "J’ai besoin d’une tenue de sport",
+        "J’ai besoin d’un certificat médical",
+        "J’ai besoin d’un abonnement ou d’une licence",
+        "J’ai besoin d’un club (une association ou un lieu de pratique)"
       ]
     },
     {
-      "question": "Vous êtes à la piscine, vous avez?",
+      "question": "Vous avez du temps libre, quel loisir avez-vous envie de faire avec un ami ?",
       "reponses": [
-        "- Je demande qu’on m’en prête un",
-        "- J’en achète un (si la piscine en vend)",
-        "- Je rentre chez moi, je reviendrais une autre",
-        "Fois avec un maillot",
-        "- Je retourne chercher mon maillot de bain et",
-        "Je reviens à la piscine plus tard"
+        "Jouer à un jeu de société",
+        "Regarder un film",
+        "Jouer au foot",
+        "Jouer à la console",
+        "Aller boire un verre"
       ]
     },
     {
-      "question": "Vous avez du temps libre, quel?",
+      "question": "Vous allez dans un bar avec un ami que pouvez-vous commander ?",
       "reponses": [
-        "- Jouer à un jeu de société",
-        "- Regarder un film",
-        "- Jouer au foot",
-        "- Jouer à la console",
-        "- Aller boire un verre"
+        "Une boisson chaude : café, thé, chocolat chaud…",
+        "Une boisson froide : jus de fruit, sirop…",
+        "Une boisson alcoolisée : vin, bière, cocktail…",
+        "De la nourriture : planche à partager, saucisson, apéritifs…"
       ]
     },
     {
-      "question": "Que faites-vous lorsque vous?",
+      "question": "Vous voulez sortir en soirée où pouvez-vous aller ?",
       "reponses": [
-        "- J’applaudis à la fin de chaque morceau",
-        "- J’applaudis à la fin du spectacle pour",
-        "Rappeler l’artiste",
-        "- Je danse",
-        "- Je chante"
+        "Au cinéma",
+        "Au bowling",
+        "Dans un bar",
+        "A un concert",
+        "A un spectacle",
+        "Dans une boite de nuit",
+        "Au restaurant"
       ]
     },
     {
-      "question": "Vous avez envie de jouer d’un?",
+      "question": "Vous avez envie de jouer d’un instrument de musique, que devez-vous faire ?",
       "reponses": [
-        "- Je choisis un instrument",
-        "- Je cherche où apprendre à jouer",
-        "- Je fais un cours d’essai",
-        "- Je me renseigne sur le tarif des cours, et de",
-        "L’instrument",
-        "- Je m’inscris au cours",
-        "- Je vais aux cours de musique et je m’entraine"
-      ]
-    },
-    {
-      "question": "Vous allez dans un bar avec un ami?",
-      "reponses": [
-        "- Une boisson chaude : café, thé, chocolat",
-        "Chaud…",
-        "- Une boisson froide : jus de fruit, sirop…",
-        "- Une boisson alcoolisée : vin, bière,",
-        "Cocktail…",
-        "- De la nourriture : planche à partager,",
-        "Saucisson, apéritifs…"
-      ]
-    },
-    {
-      "question": "Vous voulez sortir en soirée où?",
-      "reponses": [
-        "- Au cinéma",
-        "- Au bowling",
-        "- Dans un bar",
-        "- A un concert",
-        "- A un spectacle",
-        "- Dans une boite de nuit",
-        "- Au restaurant"
+        "Je choisis un instrument",
+        "Je cherche où apprendre à jouer",
+        "Je fais un cours d’essai",
+        "Je me renseigne sur le tarif des cours, et de l’instrument",
+        "Je m’inscris au cours",
+        "Je vais aux cours de musique et je m’entraîne"
       ]
     }
   ],
-  "Transport": [
+  "Transport":[
     {
-      "question": "Quel moyen de transport?",
+      "question": "Quel moyen de transport connaissez-vous ?",
       "reponses": [
-        "- La marche à pied",
-        "- Le vélo",
-        "- Le bus",
-        "- Le train",
-        "- L’avion",
-        "- Le métro",
-        "- Le taxi",
-        "- La trottinette"
+        "La marche à pied",
+        "Le vélo",
+        "Le bus",
+        "Le train",
+        "L’avion",
+        "Le métro",
+        "Le taxi",
+        "La trottinette"
       ]
     },
     {
-      "question": "Qu’est-ce qui peut vous arriver si?",
+      "question": "Vous ne descendez pas à la bonne station de métro, que faites-vous ?",
       "reponses": [
-        "- Je peux sentir mauvais",
-        "- Je peux avoir des boutons, des plaques",
-        "- Je peux tomber malade",
-        "- Je peux subir des moqueries, des critiques,",
-        "Être isolé"
+        "Je cherche un autre itinéraire, une correspondance",
+        "Je descends à la station suivante et reviens en arrière",
+        "Je descends et fais le chemin à pied",
+        "Je demande de l’aide",
+        "Je panique"
       ]
     },
     {
-      "question": "Vous ne descendez pas à la bonne?",
+      "question": "Quels papiers sont demandés pour conduire une voiture ?",
       "reponses": [
-        "- Je cherche un autre itinéraire, une",
-        "Correspondance",
-        "- Je descends à la station suivante et reviens",
-        "En arrière",
-        "- Je descends et fais le chemin à pied",
-        "- Je demande de l’aide",
-        "- Je panique"
+        "Le permis de conduire",
+        "La carte grise",
+        "L’assurance"
       ]
     },
     {
-      "question": "Pourquoi est-il essentiel de?",
+      "question": "Quels moyens de transport souhaiteriez-vous utiliser ?",
       "reponses": [
-        "- Éviter de tomber malade",
-        "- Éviter de rendre malade tout son entourage",
-        "Si nous sommes nous-même souffrant"
+        "La marche à pied",
+        "Le vélo",
+        "Le train",
+        "L’avion",
+        "Le métro",
+        "Le taxi",
+        "Le covoiturage",
+        "La voiture",
+        "La trottinette"
       ]
     },
     {
-      "question": "Quels papiers sont demandés?",
+      "question": "Comment pouvez-vous vous déplacer en toute sécurité à vélo ?",
       "reponses": [
-        "- Le permis de conduire",
-        "- La carte grise",
-        "- L’assurance"
+        "Je porte un casque",
+        "J’utilise des bandes réfléchissantes",
+        "Je mets des lumières sur mon vélo",
+        "Je respecte les règles du code de la route"
       ]
     },
     {
-      "question": "Il fait très froid, que pouvez-vous?",
+      "question": "Que faut-il faire pour réaliser un trajet en bus ?",
       "reponses": [
-        "- Un manteau",
-        "- Une écharpe",
-        "- Un bonnet",
-        "- Un pull",
-        "- Des gants",
-        "- Des chaussettes épaisses",
-        "- Des pantalons en laine",
-        "- Un sous pull"
+        "Je trouve l’adresse de ma destination",
+        "Je recherche l’itinéraire pour arriver à ma destination",
+        "Je regarde les horaires du bus",
+        "J’achète un ticket de bus",
+        "J’utilise un GPS pour vérifier mon trajet"
       ]
     },
     {
-      "question": "Quels moyens de transport?",
+      "question": "De quoi auriez-vous besoin pour que vos déplacements soient facilités ?",
       "reponses": [
-        "- La marche à pied",
-        "- Le vélo",
-        "- Le train",
-        "- L’avion",
-        "- Le métro",
-        "- Le taxi",
-        "- Le covoiturage",
-        "- La voiture",
-        "- La trottinette"
+        "Qu’une personne m’accompagne pour réaliser le premier trajet et m’aide à prendre des repères",
+        "D’être rassuré, en utilisant une application de guidage",
+        "D’être toujours accompagné, véhiculé",
+        "Que l’environnement soit plus accessible (présence de moins d’obstacles, d’une signalétique plus adaptée...)"
       ]
     },
     {
-      "question": "Comment accessoiriser une tenue?",
+      "question": "Quels documents devez-vous fournir pour prendre l’avion ?",
       "reponses": [
-        "- Utiliser des bijoux",
-        "- Utiliser des foulards ou écharpes",
-        "- Utiliser des accessoires cheveux",
-        "- Utiliser un sac",
-        "- Utiliser des lunettes de soleil",
-        "- Utiliser une ceinture",
-        "- Utiliser un chapeau"
+        "Le billet d’avion",
+        "Le passeport",
+        "Si le vol est en Europe la carte d’identité",
+        "Un visa, un Esta (hors Europe)"
       ]
     },
     {
-      "question": "Comment pouvez-vous vous?",
+      "question": "Quels sont les bons gestes pour voyager en transport en commun ?",
       "reponses": [
-        "- Je porte un casque",
-        "- J’utilise des bandes réfléchissantes",
-        "- Je mets des lumières sur mon vélo",
-        "- Je respecte les règles du code de la route"
-      ]
-    },
-    {
-      "question": "Quels sont les moyens d’hygiène?",
-      "reponses": [
-        "- Tampon",
-        "- Coupe menstruelle",
-        "- Serviette hygiénique",
-        "- Culotte de règles",
-        "- Protège-slip"
-      ]
-    },
-    {
-      "question": "Vous avez oublié votre carte de?",
-      "reponses": [
-        "- J’achète un autre titre de transport",
-        "- Je ne prends pas le bus",
-        "- Je retourne chercher ma carte de bus",
-        "- Je demande de l’aide"
-      ]
-    },
-    {
-      "question": "Quels sont les gestes à adopter?",
-      "reponses": [
-        "- Se brosser les dents deux fois par jour",
-        "- Se brosser les dents pendant au moins deux",
-        "Minutes",
-        "- Utiliser un dentifrice",
-        "- Utiliser du fil dentaire",
-        "- Consultez un dentiste au moins une fois par",
-        "An"
-      ]
-    },
-    {
-      "question": "Que faut-il faire pour réaliser un?",
-      "reponses": [
-        "- Je trouve l’adresse de ma destination",
-        "- Je recherche l’itinéraire pour arriver à ma",
-        "Destination",
-        "- Je regarde les horaires du bus",
-        "- J’achète un ticket de bus",
-        "- J’utilise un GPS pour vérifier mon trajet"
-      ]
-    },
-    {
-      "question": "Comment réaliser sa toilette?",
-      "reponses": [
-        "- Utiliser un gel douche intime",
-        "- Rincer à l’eau",
-        "- Sécher bien avec votre serviette",
-        "- Éviter les gants de toilette",
-        "- Changer vos sous-vêtements tous les jours"
-      ]
-    },
-    {
-      "question": "De quoi auriez-vous besoin pour?",
-      "reponses": [
-        "-Qu’une personne m’accompagne pour",
-        "Réaliser le premier trajet et m’aide à prendre",
-        "Des repères",
-        "- D’être rassuré, en utilisant une application",
-        "De guidage",
-        "- D’être toujours accompagné, véhiculé",
-        "-Que l’environnement soit plus",
-        "Accessible (présence de moins d’obstacles,",
-        "D’une signalétique plus adaptée…)"
-      ]
-    },
-    {
-      "question": "Comment avoir une bonne?",
-      "reponses": [
-        "- Avoir des nuits de sommeil complètes",
-        "- S’oxygéner son organisme",
-        "- S’hydrater suffisamment et régulièrement",
-        "En buvant de l’eau",
-        "- Se nourrir de façon équilibrée"
-      ]
-    },
-    {
-      "question": "Vous êtes perdu dans la rue que?",
-      "reponses": [
-        "- Je demande de l’aide à un passant",
-        "- Je décide de revenir sur mes pas",
-        "- Je regarde autour de moi pour identifier un",
-        "Repère",
-        "- Je téléphone à une personne de confiance",
-        "(un ami, mes parents, mon éducateur…)",
-        "- J’utilise une application GPS (Maps…)",
-        "- Je déclenche mon bracelet d’alerte"
-      ]
-    },
-    {
-      "question": "Quels produits cosmétiques?",
-      "reponses": [
-        "- Le shampoing",
-        "- Le gel douche",
-        "- La crème visage",
-        "- Le démaquillant",
-        "- Le parfum",
-        "- Le mascara",
-        "- Le rouge à lèvre",
-        "- Le vernis à ongle"
-      ]
-    },
-    {
-      "question": "Quels documents devez-vous?",
-      "reponses": [
-        "- Le billet d’avion",
-        "- Le passeport",
-        "- Si le vol est en Europe la carte d’identité",
-        "- Un visa, un Esta (hors Europe)"
-      ]
-    },
-    {
-      "question": "Quels vêtements connaissez-?",
-      "reponses": [
-        "- Le tee shirt",
-        "- Le manteau",
-        "- Le pantalon",
-        "- La jupe",
-        "- La robe",
-        "- La combinaison",
-        "- Le short",
-        "- Le chemisier",
-        "- Le gilet"
-      ]
-    },
-    {
-      "question": "Quels sont les bons gestes pour?",
-      "reponses": [
-        "- Préparer le titre de transport",
-        "- Ne pas gêner la fermeture des portes",
-        "- Poser les sacs encombrants au sol",
-        "-Céder la place assise aux personnes",
-        "Prioritaires",
-        "- Plier les poussettes et les trottinettes",
-        "- Porter des écouteurs",
-        "- Veiller à ne pas frotter les autres personnes",
-        "- Ne pas fumer ou vapoter",
-        "- Installer les petits animaux dans un panier"
-      ]
-    },
-    {
-      "question": "Quelles sont les règles de?",
-      "reponses": [
-        "- Se brosser les dents deux fois par jour",
-        "- Se laver les mains régulièrement",
-        "- Se moucher correctement",
-        "- Changer de sous-vêtement tous les jours",
-        "- Prendre un bain ou une douche",
-        "Régulièrement",
-        "- Couper ses ongles régulièrement"
+        "Préparer le titre de transport",
+        "Ne pas gêner la fermeture des portes",
+        "Poser les sacs encombrants au sol",
+        "Céder la place assise aux personnes prioritaires",
+        "Plier les poussettes et les trottinettes",
+        "Porter des écouteurs",
+        "Veiller à ne pas frotter les autres personnes",
+        "Ne pas fumer ou vapoter",
+        "Installer les petits animaux dans un panier"
       ]
     }
   ],
-  "Citoyenneté": [
+  "Hygiène":[
+    {
+      "question": "Qu’est-ce qui peut vous arriver si vous ne vous lavez pas ?",
+      "reponses": [
+        "Je peux sentir mauvais",
+        "Je peux avoir des boutons, des plaques",
+        "Je peux tomber malade",
+        "Je peux subir des moqueries, des critiques, être isolé"
+      ]
+    },
+    {
+      "question": "Pourquoi est-il essentiel de se laver les mains régulièrement dans la journée ?",
+      "reponses": [
+        "Éviter de tomber malade",
+        "Éviter de rendre malade tout son entourage si nous sommes nous-même souffrant"
+      ]
+    },
+    {
+      "question": "Il fait très froid, que pouvez-vous utiliser comme vêtement ?",
+      "reponses": [
+        "Un manteau",
+        "Une écharpe",
+        "Un bonnet",
+        "Un pull",
+        "Des gants",
+        "Des chaussettes épaisses",
+        "Des pantalons en laine",
+        "Un sous pull"
+      ]
+    },
+    {
+      "question": "Quels sont les moyens d’hygiène menstruelle ?",
+      "reponses": [
+        "Tampon",
+        "Coupe menstruelle",
+        "Serviette hygiénique",
+        "Culotte de règles",
+        "Protège-slip"
+      ]
+    },
+    {
+      "question": "Comment réaliser sa toilette intime ?",
+      "reponses": [
+        "Utiliser un gel douche intime",
+        "Rincer à l’eau",
+        "Sécher bien avec votre serviette",
+        "Éviter les gants de toilette",
+        "Changer vos sous-vêtements tous les jours"
+      ]
+    },
+    {
+      "question": "Comment avoir une bonne hygiène de vie ?",
+      "reponses": [
+        "Avoir des nuits de sommeil complètes",
+        "S’oxygéner son organisme",
+        "S’hydrater suffisamment et régulièrement en buvant de l’eau",
+        "Se nourrir de façon équilibrée"
+      ]
+    },
+    {
+      "question": "Quels vêtements connaissez-vous ?",
+      "reponses": [
+        "Le tee shirt",
+        "Le manteau",
+        "Le pantalon",
+        "La jupe",
+        "La robe",
+        "La combinaison",
+        "Le short",
+        "Le chemisier",
+        "Le gilet"
+      ]
+    },
+    {
+      "question": "Comment accessoiriser une tenue vestimentaire ?",
+      "reponses": [
+        "Utiliser des bijoux",
+        "Utiliser des foulards ou écharpes",
+        "Utiliser des accessoires cheveux",
+        "Utiliser un sac",
+        "Utiliser des lunettes de soleil",
+        "Utiliser une ceinture",
+        "Utiliser un chapeau"
+      ]
+    },
+    {
+      "question": "Quels produits cosmétiques connaissez-vous ?",
+      "reponses": [
+        "Le shampoing",
+        "Le gel douche",
+        "La crème visage",
+        "Le démaquillant",
+        "Le parfum",
+        "Le mascara",
+        "Le rouge à lèvre",
+        "Le vernis à ongle"
+      ]
+    },
+    {
+      "question": "Quelles sont les règles de l’hygiène corporelle ?",
+      "reponses": [
+        "Se brosser les dents deux fois par jour",
+        "Se laver les mains régulièrement",
+        "Se moucher correctement",
+        "Changer de sous-vêtement tous les jours",
+        "Prendre un bain ou une douche régulièrement",
+        "Couper ses ongles régulièrement"
+      ]
+    }
+  ],
+  "Citoyenneté":[
     {
       "question": "Être citoyen, ça veut dire quoi ?",
       "reponses": [
-        "- Aller voter",
-        "- Aider les autres",
-        "- Aller à l’école",
-        "-Travailler",
-        "-Trier ses déchets (préserver la planète)",
-        "- Appeler les secours lors d’un accident",
-        "(SAMU, Pompiers, Police...)"
+        "Aller voter",
+        "Aider les autres",
+        "Aller à l’école",
+        "Travailler",
+        "Trier ses déchets (préserver la planète)",
+        "Appeler les secours lors d’un accident (SAMU, Pompiers, Police...)"
       ]
     },
     {
       "question": "Quels sont les droits du citoyen ?",
       "reponses": [
-        "- Droit de vote",
-        "- Droit d’être élu",
-        "- Droit à la propriété",
-        "- Droit à l’éducation",
-        "- Droit au travail",
-        "- Droit à la sécurité sociale"
+        "Droit de vote",
+        "Droit d’être élu",
+        "Droit à la propriété",
+        "Droit à l’éducation",
+        "Droit au travail",
+        "Droit à la sécurité sociale"
       ]
     },
     {
-      "question": "Quels sont les devoirs du?",
+      "question": "Quels sont les devoirs du citoyen ?",
       "reponses": [
-        "- Respecter les lois",
-        "- Respecter les autres",
-        "- Participer à la journée de défense citoyenne"
+        "Respecter les lois",
+        "Respecter les autres",
+        "Participer à la journée de défense citoyenne"
       ]
     },
     {
-      "question": "Vous êtes témoin d’un drame?",
+      "question": "Vous êtes témoin d’un drame (accident, délit, vol, crime, incendie...), que faites-vous ?",
       "reponses": [
-        "- J’appelle le SAMU",
-        "- J’appelle la police",
-        "- J’appelle les pompiers",
-        "- Si je suis formé, réaliser les gestes de",
-        "Premiers secours"
+        "J’appelle le SAMU",
+        "J’appelle la police",
+        "J’appelle les pompiers",
+        "Si je suis formé, réaliser les gestes de premiers secours"
       ]
     },
     {
-      "question": "Comment aimeriez-vous vous?",
+      "question": "Quels sont les symboles de la citoyenneté française ?",
       "reponses": [
-        "- Militant pour une association",
-        "- Élu (adjoint, maire, conseiller municipal...)",
-        "- Juré",
-        "- Bénévole (association, commune...)",
-        "- Pair-aidant / Intervenant pair"
+        "Drapeau tricolore (bleu, blanc, rouge)",
+        "Marianne",
+        "Le 14 juillet (fête nationale)",
+        "L’hymne nationale (la Marseillaise)",
+        "La devise : Liberté, Égalité, Fraternité"
       ]
     },
     {
-      "question": "Quels sont les symboles de la?",
+      "question": "Comment pouvez-vous participer à la vie de votre quartier ?",
       "reponses": [
-        "- Drapeau tricolore (bleu, blanc, rouge)",
-        "- Marianne",
-        "- Le 14 juillet (fête nationale)",
-        "- L’hymne nationale (la Marseillaise)",
-        "- La devise : Liberté, Égalité, Fraternité"
+        "Je ramasse les déchets dans les rues",
+        "J’aide aux travaux du jardin participatif",
+        "Je tiens un bureau de vote",
+        "Je fais du bénévolat auprès de la mairie (service civique, bibliothèque, ...)",
+        "Je participe au conseil municipal"
       ]
     },
     {
-      "question": "Comment pouvez-vous participer?",
+      "question": "Quels sont les élections auxquelles vous pouvez voter ?",
       "reponses": [
-        "- Je ramasse les déchets dans les rues",
-        "- J’aide aux travaux du jardin participatif",
-        "- Je tiens un bureau de vote",
-        "- Je fais du bénévolat auprès de la mairie",
-        "(service civique, bibliothèque, …)",
-        "- Je participe au conseil municipal"
+        "Élections municipales",
+        "Élections présidentielles",
+        "Élections législatives",
+        "Élections des représentants des personnes accompagnées (CVS...)",
+        "Élections des représentants d’un bureau associatif (conseil d’administration...)"
       ]
     },
     {
-      "question": "Quels sont les élections auxquelles?",
+      "question": "Quelle forme de manifestation connaissez-vous ?",
       "reponses": [
-        "- Élections municipales",
-        "- Élections présidentielles",
-        "- Élections législatives",
-        "- Élections des représentants des personnes",
-        "Accompagnées (CVS...)",
-        "- Élections des représentants d’un bureau",
-        "Associatif (conseil d’administration...)"
+        "Une marche",
+        "Un rassemblement",
+        "Une grève",
+        "Un Sit-in"
       ]
     },
     {
-      "question": "Quelle forme de manifestation?",
+      "question": "Connaissez-vous les différents bacs de tri pour la gestion des déchets ?",
       "reponses": [
-        "- Une marche",
-        "- Un rassemblement",
-        "- Une grève",
-        "- Un Sit-in"
+        "Bac gris : les ordures ménagères",
+        "Bac vert : les emballages en verre",
+        "Bac jaune : emballages à déposer en vrac (briques, carton, plastique, métal)",
+        "Bac bleu : les papiers (journaux, magazines, livres, cahiers enveloppes…)"
       ]
     },
     {
-      "question": "Connaissez-vous les différents?",
+      "question": "Quels numéros d’urgence connaissez-vous ?",
       "reponses": [
-        "- Bac gris : les ordures ménagères",
-        "- Bac vert : les emballages en verre",
-        "- Bac jaune : emballages à déposer en vrac",
-        "(briques, carton, plastique, métal)",
-        "- Bac bleu : les papiers (journaux, magazines,",
-        "Livres, cahiers enveloppes…)"
-      ]
-    },
-    {
-      "question": "Quels numéros d’urgence?",
-      "reponses": [
-        "- 15 (SAMU)",
-        "- 17 (Police Secours)",
-        "- 18 (Pompiers)",
-        "- 114 (Urgence SMS)",
-        "- 196 (Sauvetage en mer)",
-        "- 112 (Numéro européen de secours)"
+        "15 (SAMU)",
+        "17 (Police Secours)",
+        "18 (Pompiers)",
+        "114 (Urgence SMS)",
+        "196 (Sauvetage en mer)",
+        "112 (Numéro européen de secours)"
       ]
     }
   ],
-  "Communication": [
+  "Communication":[
     {
-      "question": "Quels outils pour la?",
+      "question": "Quels outils pour la communication alternative augmentée (CAA) connaissez-vous ?",
       "reponses": [
-        "- Les pictogrammes",
-        "- Les classeurs de communication",
-        "- La langue des signes",
-        "- Le PECS (système de communication par",
-        "Échange d’image)",
-        "- Le Makaton"
+        "Les pictogrammes",
+        "Les classeurs de communication",
+        "La langue des signes",
+        "Le PECS (système de communication par échange d’image)",
+        "Le Makaton"
       ]
     },
     {
-      "question": "Une bonne communication, ça?",
+      "question": "Une bonne communication, ça veut dire quoi ?",
       "reponses": [
-        "- Je sais utiliser un langage clair",
-        "- Je sais convaincre",
-        "- Je sais écouter",
-        "- Je sais poser des questions",
-        "- Je sais reformuler des informations reçues",
-        "- Je sais comprendre un message qui m’est",
-        "Adressé"
+        "Je sais utiliser un langage clair",
+        "Je sais convaincre",
+        "Je sais écouter",
+        "Je sais poser des questions",
+        "Je sais reformuler des informations reçues",
+        "Je sais comprendre un message qui m’est adressé"
       ]
     },
     {
-      "question": "Dans quelle(s) situation(s)?",
+      "question": "Quels canaux de communication connaissez-vous ?",
       "reponses": [
-        "- Avec une personne connue",
-        "- Avec une personne inconnue",
-        "- Au sein d’un groupe",
-        "- Avec un membre de la famille",
-        "- Avec un professionnel accompagnant"
+        "Les médias",
+        "Les supports papiers",
+        "Les sites web",
+        "Les réseaux sociaux",
+        "Les mails",
+        "Les événements : forums, salons..."
       ]
     },
     {
-      "question": "Quels canaux de communication?",
+      "question": "Dans quelle(s) situation(s) parvenez-vous à vous exprimer le plus facilement ?",
       "reponses": [
-        "- Les médias",
-        "- Les supports papiers",
-        "- Les sites web",
-        "- Les réseaux sociaux",
-        "- Les mails",
-        "- Les événements : forums, salons…"
+        "Avec une personne connue",
+        "Avec une personne inconnue",
+        "Au sein d’un groupe",
+        "Avec un membre de la famille",
+        "Avec un professionnel accompagnant"
       ]
     },
     {
-      "question": "Quels moyens de compensation?",
+      "question": "Quels moyens de compensation pour lever des freins à la communication connaissez-vous ?",
       "reponses": [
-        "- Les outils d’aide à la lecture : solution",
-        "D’agrandissement, le braille, la synthèse",
-        "Vocale…",
-        "- Les outils de communication alternative",
-        "Augmentée : les pictogrammes, la commande",
-        "Vocale, la commande oculaire, le Makaton, Le",
-        "PECS, LSF, le français simplifié…"
+        "Les outils d’aide à la lecture : solution d’agrandissement, le braille, la synthèse vocale...",
+        "Les outils de communication alternative augmentée : les pictogrammes, la commande vocale, la commande oculaire, le Makaton, Le PECS, LSF, le français simplifié..."
       ]
     },
     {
-      "question": "Quels types de communication?",
+      "question": "Quels types de communication connaissez-vous ?",
       "reponses": [
-        "- Communication visuelle",
-        "- Communication verbale",
-        "- Communication non verbale",
-        "- Communication écrite"
+        "Communication visuelle",
+        "Communication verbale",
+        "Communication non verbale",
+        "Communication écrite"
       ]
     },
     {
-      "question": "Quels sont les avantages d’une?",
+      "question": "Quels moyens de communication connaissez-vous ?",
       "reponses": [
-        "- Favoriser le bien être",
-        "- Éviter les conflits",
-        "- Améliorer la collaboration",
-        "- Favoriser la créativité",
-        "- Développer la motivation"
+        "Le téléphone",
+        "Les mails",
+        "Le courrier",
+        "Les échanges directs",
+        "Les SMS",
+        "Les réseaux sociaux"
       ]
     },
     {
-      "question": "Quels moyens de communication?",
+      "question": "Vous devez transmettre un message à une personne comment faites-vous ?",
       "reponses": [
-        "- Le téléphone",
-        "- Les mails",
-        "- Le courrier",
-        "- Les échanges directs",
-        "- Les SMS",
-        "- Les réseaux sociaux"
+        "Je lui téléphone",
+        "Je vais le voir",
+        "Je réalise une vidéo et la diffuse",
+        "Je le dessine",
+        "Je demande à quelqu’un de le dire à ma place"
       ]
     },
     {
-      "question": "Vous devez transmettre un?",
+      "question": "Vous vous exprimez et une personne vous interrompt, en vous coupant la parole, comment réagissez-vous ?",
       "reponses": [
-        "- Je lui téléphone",
-        "- Je vais le voir",
-        "- Je réalise une vidéo et la diffuse",
-        "- Je le dessine",
-        "- Je demande à quelqu’un de le dire à ma",
-        "Place"
+        "J’arrête de parler",
+        "Je continue sans y prêter attention",
+        "Je me mets en colère",
+        "Je lui fais remarquer"
       ]
     },
     {
-      "question": "Vous vous exprimez et une?",
+      "question": "Vous vous exprimez et une personne ne vous écoute pas, comment réagissez-vous ?",
       "reponses": [
-        "- J’arrête de parler",
-        "- Je continue sans y prêter attention",
-        "- Je me mets en colère",
-        "- Je lui fais remarquer"
-      ]
-    },
-    {
-      "question": "Vous vous exprimez et une?",
-      "reponses": [
-        "- J’arrête de parler",
-        "- Je continue de parler sans y prêter",
-        "Attention",
-        "- Je me mets en colère",
-        "- Je lui fais remarquer"
+        "J’arrête de parler",
+        "Je continue de parler sans y prêter attention",
+        "Je me mets en colère",
+        "Je lui fais remarquer"
       ]
     }
   ],
-  "Habitat": [
-    {
-      "question": "Dans quel type de logement?",
-      "reponses": [
-        "- Une maison",
-        "- Un appartement",
-        "- Un habitat partagé",
-        "- Une colocation",
-        "- En établissement (institution)",
-        "- En internat",
-        "- Au domicile familial"
-      ]
-    },
-    {
-      "question": "Que faut-il faire pour avoir un?",
-      "reponses": [
-        "- Exprimer son souhait de déménager",
-        "- Rechercher un logement",
-        "- Remplir des papiers (un dossier de demande",
-        "De logement auprès d’une agence de location)",
-        "- Vérifier que l’on a assez d’argent pour payer",
-        "Le loyer et les factures",
-        "- Organiser le déménagement",
-        "- Acheter des meubles si besoin",
-        "- Assurer le logement"
-      ]
-    },
-    {
-      "question": "Dans quel type de logement?",
-      "reponses": [
-        "- Une maison",
-        "- Un appartement",
-        "- Un habitat partagé",
-        "- Une colocation",
-        "- En établissement (institution)",
-        "- En internat",
-        "- Au domicile familial"
-      ]
-    },
-    {
-      "question": "Que faut-il faire pour garder un?",
-      "reponses": [
-        "- Payer le loyer",
-        "- Payer les factures",
-        "- Respecter les voisins",
-        "- Sortir les poubelles",
-        "- Nettoyer le logement"
-      ]
-    },
-    {
-      "question": "Vos voisins font beaucoup de bruit,?",
-      "reponses": [
-        "- Je vais toquer, pour leur demander de faire",
-        "Moins de bruit",
-        "- J’appelle la police",
-        "- Je me bouche les oreilles (avec des",
-        "Bouchons d’oreilles)",
-        "- Je dépose une main courante à la",
-        "Gendarmerie"
-      ]
-    },
-    {
-      "question": "Quels produits naturels?",
-      "reponses": [
-        "- Du jus de citron",
-        "- Du vinaigre blanc",
-        "- Du bicarbonate de soude",
-        "- Du savon noir",
-        "- Du savon de Marseille",
-        "- De l’huile d’olive",
-        "- De l’eau oxygénée",
-        "- Du marc de café"
-      ]
-    },
-    {
-      "question": "Qui fait le ménage dans votre?",
-      "reponses": [
-        "- Moi, je fais le ménage seul",
-        "- Un professionnel (une femme de ménage,",
-        "Une auxiliaire de vie…)",
-        "- Une personne de ma famille (ma mère, mon",
-        "Père, ma femme, mon frère, mon fils…)"
-      ]
-    },
-    {
-      "question": "Quels types de repas vous?",
-      "reponses": [
-        "- Un petit déjeuner",
-        "- Un plat à réchauffer au micro-onde",
-        "- Un gâteau au chocolat",
-        "- Un plat facile et rapide à préparer du type",
-        "Pâtes à la bolognaise",
-        "- Un repas complet : entrée, plat, dessert",
-        "Pour des invités"
-      ]
-    },
-    {
-      "question": "De quoi avez-vous besoin pour?",
-      "reponses": [
-        "- D’argent pour payer (espèce ou carte",
-        "Bancaire)",
-        "- D’une liste de courses",
-        "- De sachets pour ranger et transporter mes",
-        "Courses",
-        "- De conseils pour choisir mes produits"
-      ]
-    },
-    {
-      "question": "La poêle prend feu quand vous?",
-      "reponses": [
-        "- Je sors de la maison",
-        "- J’appelle les pompiers",
-        "- Je verse de l’eau pour éteindre le feu",
-        "- Je mets un torchon mouillé sur la poêle"
-      ]
-    },
-    {
-      "question": "Qui fait vos courses ?",
-      "reponses": [
-        "- Moi, je fais mes courses seul en magasin",
-        "- Moi, je fais mes courses sur internet",
-        "- Un professionnel, mais je lui donne une liste",
-        "De courses",
-        "- Une personne de ma famille, mais je lui",
-        "Donne une liste de courses"
-      ]
-    }
-  ],
-  "Démarches\nadministratives": [
-    {
-      "question": "Quels sont les papiers que vous?",
-      "reponses": [
-        "- La carte d’identité",
-        "- Le permis de conduire",
-        "- Le passeport",
-        "- La carte vitale",
-        "- Le livret de famille",
-        "- L’acte de naissance",
-        "- La carte d’électeur"
-      ]
-    },
-    {
-      "question": "Comment pouvez-vous payer ?",
-      "reponses": [
-        "- En carte bleue",
-        "- En chèque",
-        "- En espèce",
-        "- En virement bancaire",
-        "- Par téléphone avec l’application bancaire"
-      ]
-    },
-    {
-      "question": "Que devez-vous faire pour?",
-      "reponses": [
-        "- Je dois réaliser une pré-demande en ligne",
-        "- Je dois aller en mairie pour prendre un",
-        "Rendez-vous",
-        "- Je dois rassembler mes papiers : photo",
-        "D’identité, justificatif de domicile, acte de",
-        "Naissance.",
-        "- Je dois ramener mon ancienne carte",
-        "D’identité"
-      ]
-    },
-    {
-      "question": "Quels droits sont proposés par la?",
-      "reponses": [
-        "- Allocations familiales",
-        "- Allocations de rentrée",
-        "- Allocations logements",
-        "- Allocation d’éducation de l’enfant handicapé",
-        "(AEEH)",
-        "- Allocation aux adultes handicapés (AAH)",
-        "- Revenu de solidarité active (RSA)",
-        "- Complément familial (à partir de 3 enfants)"
-      ]
-    },
-    {
-      "question": "Que devez-vous faire pour avoir le?",
-      "reponses": [
-        "- Je dois avoir 18 ans",
-        "- Je dois choisir une auto-école",
-        "- Je dois m’inscrire dans une auto-école",
-        "- Je dois préparer et passer le code",
-        "- Je dois réaliser des heures de conduite",
-        "- Je dois passer l’examen du permis de",
-        "Conduire"
-      ]
-    },
-    {
-      "question": "Pourquoi avoir un compte?",
-      "reponses": [
-        "- Pour toucher mon salaire",
-        "- Pour toucher mes prestations sociales",
-        "- Pour régler mes factures",
-        "- Pour effectuer des paiements",
-        "- Pour réaliser des virements"
-      ]
-    },
-    {
-      "question": "Comment gérer son budget ?",
-      "reponses": [
-        "- Faire ses comptes",
-        "- Connaitre ses ressources et ses dépenses",
-        "- Anticiper ses dépenses",
-        "- Demander de l’aide à quelqu’un : mon",
-        "Éducateur, mes parents, un ami…",
-        "- Ouvrir un compte épargne",
-        "- Mettre de l’argent de côté dans une boîte"
-      ]
-    },
-    {
-      "question": "Quelles administrations françaises?",
-      "reponses": [
-        "- Le centre des impôts",
-        "- La Caisse Primaire d’Assurance Maladie",
-        "(CPAM)",
-        "- La préfecture",
-        "- La Caisse d’Allocations Familiales (CAF)",
-        "- La Maison Départementale des Personnes",
-        "Handicapées (MDPH)",
-        "- La caisse des retraites",
-        "- Pôle Emploi, Cap Emploi",
-        "- Les services sociaux"
-      ]
-    },
-    {
-      "question": "Comment ouvrir un compte?",
-      "reponses": [
-        "- Je choisis une banque",
-        "- Je demande un rendez-vous à la banque",
-        "Pour ouvrir un compte",
-        "- Je me présente à la banque avec une pièce",
-        "D’identité et un justificatif de domicile",
-        "- Je demande mon ou mes moyens de",
-        "Paiement : carte de crédit, chéquier…"
-      ]
-    },
-    {
-      "question": "Dans quels domaines interviennent?",
-      "reponses": [
-        "- L’accès au soin",
-        "- Le financement d’une complémentaire santé",
-        "- La compensation d’une perte de salaire",
-        "- Dans l’aide-ménagère ou la garde malade",
-        "- En cas de réinsertion professionnelle à la",
-        "Suite d’un arrêt de travail",
-        "- Pour une insertion à domicile des personnes",
-        "En situation de handicap (adaptation du loge-",
-        "Ment, appareillage, intervention à domicile)"
-      ]
-    },
-    {
-      "question": "Quelles administrations?",
-      "reponses": [
-        "- Les impôts",
-        "- L’assurance maladie",
-        "- L’identité numérique, la poste",
-        "- L’assurance retraite",
-        "- La caisse d’allocation familiale (CAF)",
-        "- Pôle Emploi",
-        "Demande de Passeport, carte d’identité,",
-        "Changement d’adresse"
-      ]
-    }
-  ]
-}
+  "Habitat":[
+
+      {
+        "question": "Dans quel type de logement habitez-vous ?",
+        "reponses": [
+          "Une maison",
+          "Un appartement",
+          "Un habitat partagé",
+          "Une colocation",
+          "En établissement (institution)",
+          "En internat",
+          "Au domicile familial"
+        ]
+      },
+      {
+        "question": "Que faut-il faire pour avoir un appartement ?",
+        "reponses": [
+          "Exprimer son souhait de déménager",
+          "Rechercher un logement",
+          "Remplir des papiers (un dossier de demande de logement auprès d’une agence de location)",
+          "Vérifier que l’on a assez d’argent pour payer le loyer et les factures",
+          "Organiser le déménagement",
+          "Acheter des meubles si besoin",
+          "Assurer le logement"
+        ]
+      },
+      {
+        "question": "Dans quel type de logement aimeriez-vous habiter ?",
+        "reponses": [
+          "Une maison",
+          "Un appartement",
+          "Un habitat partagé",
+          "Une colocation",
+          "En établissement (institution)",
+          "En internat",
+          "Au domicile familial"
+        ]
+      },
+      {
+        "question": "Que faut-il faire pour garder un appartement ?",
+        "reponses": [
+          "Payer le loyer",
+          "Payer les factures",
+          "Respecter les voisins",
+          "Sortir les poubelles",
+          "Nettoyer le logement"
+        ]
+      },
+      {
+        "question": "Quels produits naturels pouvez-vous utiliser pour faire le ménage ?",
+        "reponses": [
+          "Du jus de citron",
+          "Du vinaigre blanc",
+          "Du bicarbonate de soude",
+          "Du savon noir",
+          "Du savon de Marseille",
+          "De l’huile d’olive",
+          "De l’eau oxygénée",
+          "Du marc de café"
+        ]
+      },
+      {
+        "question": "Quels types de repas vous sentez-vous capable de préparer ?",
+        "reponses": [
+          "Un petit déjeuner",
+          "Un plat à réchauffer au micro-onde",
+          "Un gâteau au chocolat",
+          "Un plat facile et rapide à préparer du type pâtes à la bolognaise",
+          "Un repas complet : entrée, plat, dessert pour des invités"
+        ]
+      },
+      {
+        "question": "La poêle prend feu quand vous cuisinez, que faites-vous ?",
+        "reponses": [
+          "Je sors de la maison",
+          "J’appelle les pompiers",
+          "Je verse de l’eau pour éteindre le feu",
+          "Je mets un torchon mouillé sur la poêle"
+        ]
+      },
+      {
+        "question": "De quoi avez-vous besoin pour faire les courses ?",
+        "reponses": [
+          "D’argent pour payer (espèce ou carte bancaire)",
+          "D’une liste de courses",
+          "De sachets pour ranger et transporter mes courses",
+          "De conseils pour choisir mes produits"
+        ]
+      },
+      {
+        "question": "Qui fait le ménage dans votre logement (ou votre chambre) ?",
+        "reponses": [
+          "Moi, je fais le ménage seul",
+          "Un professionnel (une femme de ménage, une auxiliaire de vie...)",
+          "Une personne de ma famille (ma mère, mon père, ma femme, mon frère, mon fils...)"
+        ]
+      },
+      {
+        "question": "Qui fait vos courses ?",
+        "reponses": [
+          "Moi, je fais mes courses seul en magasin",
+          "Moi, je fais mes courses sur internet",
+          "Un professionnel, mais je lui donne une liste de courses",
+          "Une personne de ma famille, mais je lui donne une liste de courses"
+        ]
+      }
+    ],
+  "Démarches \nadministratives":[
+      {
+        "question": "Quels sont les papiers que vous pouvez présenter durant une vérification d’identité ?",
+        "reponses": [
+          "La carte d’identité",
+          "Le permis de conduire",
+          "Le passeport",
+          "La carte vitale",
+          "Le livret de famille",
+          "L’acte de naissance",
+          "La carte d’électeur"
+        ]
+      },
+      {
+        "question": "Comment pouvez-vous payer ?",
+        "reponses": [
+          "En carte bleue",
+          "En chèque",
+          "En espèce",
+          "En virement bancaire",
+          "Par téléphone avec l’application bancaire"
+        ]
+      },
+      {
+        "question": "Que devez-vous faire pour renouveler votre carte d’identité ?",
+        "reponses": [
+          "Je dois réaliser une pré-demande en ligne",
+          "Je dois aller en mairie pour prendre un rendez-vous",
+          "Je dois rassembler mes papiers : photo d’identité, justificatif de domicile, acte de naissance.",
+          "Je dois ramener mon ancienne carte d’identité"
+        ]
+      },
+      {
+        "question": "Quels droits sont proposés par la caisse d’allocations familiales (CAF) ?",
+        "reponses": [
+          "Allocations familiales",
+          "Allocations de rentrée",
+          "Allocations logements",
+          "Allocation d’éducation de l’enfant handicapé (AEEH)",
+          "Allocation aux adultes handicapés (AAH)",
+          "Revenu de solidarité active (RSA)",
+          "Complément familial (à partir de 3 enfants)"
+        ]
+      },
+      {
+        "question": "Que devez-vous faire pour avoir le permis de conduire ?",
+        "reponses": [
+          "Je dois avoir 18 ans",
+          "Je dois choisir une auto-école",
+          "Je dois m’inscrire dans une auto-école",
+          "Je dois préparer et passer le code",
+          "Je dois réaliser des heures de conduite",
+          "Je dois passer l’examen du permis de conduire"
+        ]
+      },
+      {
+        "question": "Comment gérer son budget ?",
+        "reponses": [
+          "Faire ses comptes",
+          "Connaître ses ressources et ses dépenses",
+          "Anticiper ses dépenses",
+          "Demander de l'aide à quelqu'un : mon éducateur, mes parents, un ami...",
+          "Ouvrir un compte épargne",
+          "Mettre de l'argent de côté dans une boîte"
+        ]
+      },
+      {
+        "question": "Comment ouvrir un compte bancaire ?",
+        "reponses": [
+          "Je choisis une banque",
+          "Je demande un rendez-vous à la banque pour ouvrir un compte",
+          "Je me présente à la banque avec une pièce d’identité et un justificatif de domicile",
+          "Je demande mon ou mes moyens de paiement : carte de crédit, chéquier..."
+        ]
+      },
+      {
+        "question": "Pourquoi avoir un compte bancaire ?",
+        "reponses": [
+          "Pour toucher mon salaire",
+          "Pour toucher mes prestations sociales",
+          "Pour régler mes factures",
+          "Pour effectuer des paiements",
+          "Pour réaliser des virements"
+        ]
+      },
+      {
+        "question": "Dans quels domaines interviennent les aides de l’assurance maladie ?",
+        "reponses": [
+          "L’accès au soin",
+          "Le financement d’une complémentaire santé",
+          "La compensation d’une perte de salaire",
+          "Dans l’aide-ménagère ou la garde malade",
+          "En cas de réinsertion professionnelle à la suite d’un arrêt de travail",
+          "Pour une insertion à domicile des personnes en situation de handicap (adaptation du logement, appareillage, intervention à domicile)"
+        ]
+      },
+      {
+        "question": "Quelles administrations françaises connaissez-vous ?",
+        "reponses": [
+          "Le centre des impôts",
+          "La Caisse Primaire d’Assurance Maladie (CPAM)",
+          "La préfecture",
+          "La Caisse d’Allocations Familiales (CAF)",
+          "La Maison Départementale des Personnes Handicapées (MDPH)",
+          "La caisse des retraites",
+          "Pôle Emploi, Cap Emploi",
+          "Les services sociaux"
+        ]
+      },
+      {
+        "question": "Quelles administrations pouvez-vous trouver sur France Connect ?",
+        "reponses": [
+          "Les impôts",
+          "L’assurance maladie",
+          "L’identité numérique, la poste",
+          "L’assurance retraite",
+          "La caisse d’allocation familiale (CAF)",
+          "Pôle Emploi",
+          "Demande de Passeport, carte d’identité, changement d’adresse"
+        ]
+      }
+    ]
+  }
+
