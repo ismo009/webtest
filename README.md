@@ -85,5 +85,5 @@ Pour générer un QR code pointant vers une URL ou une ressource spécifique, su
 5. Intégrez-le dans votre projet ou partagez-le selon vos besoins.
 
 ## Conctact
-- Julian BREUILLER : breuillerjulian6gmail.com
+- Julian BREUILLER : breuillerjulian@gmail.com
 - Ismael DE LA ROSA PÉREZ : delarossaperezismael@gmail.com
