@@ -228,7 +228,7 @@
       ]
     }
   ],
-  "Vie \naffective \net sexuelle":[
+  "Vie affective et sexuelle":[
     {
       "question": "Quelles orientations sexuelles connaissez-vous ?",
       "reponses": [
@@ -1056,7 +1056,7 @@
         ]
       }
     ],
-  "Démarches \nadministratives":[
+  "Démarches administratives":[
       {
         "question": "Quels sont les papiers que vous pouvez présenter durant une vérification d’identité ?",
         "reponses": [
