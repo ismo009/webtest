@@ -96,6 +96,6 @@ Pour générer un QR code pointant vers une URL ou une ressource spécifique, su
 4. Téléchargez le QR code généré.
 5. Intégrez-le dans votre projet ou partagez-le selon vos besoins.
 
-## Conctact
+## Contact
 - Julian BREUILLER : breuillerjulian@gmail.com
 - Ismael DE LA ROSA PÉREZ : delarossaperezismael@gmail.com
