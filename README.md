@@ -78,7 +78,7 @@ Les questions et réponses sont stockées dans un fichier JSON situé dans le do
 
 Pour générer un QR code pointant vers une URL ou une ressource spécifique, suivez ces étapes :
 
-1. Rendez-vous sur l'[outil en ligne gratuit d'Adobe QR Code Generator](https://www.adobe.com/express/feature/qr-code).
+1. Rendez-vous sur l'[outil en ligne gratuit d'Adobe QR Code Generator](https://www.adobe.com/es/express/feature/image/qr-code-generator).
 2. Entrez l'URL ou le texte que vous souhaitez encoder dans le QR code (lien de chaque question).
 3. Personnalisez le design du QR code si nécessaire.
 4. Téléchargez le QR code généré.
