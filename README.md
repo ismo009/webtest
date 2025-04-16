@@ -47,10 +47,16 @@ Les questions et réponses sont stockées dans un fichier JSON situé dans le do
 3. Ajoutez une nouvelle entrée dans la liste des questions. Exemple :
     ```json
     {
-         "question": "Quel est le capital de la France ?",
-         "answers": ["Paris", "Lyon", "Marseille"],
-         "correctAnswer": "Paris"
-    }
+      "question": "Quelles orientations sexuelles connaissez-vous ?",
+      "reponses": [
+        "L'hétérosexualité",
+        "L'homosexualité",
+        "La bisexualité",
+        "L'asexualité",
+        "La pansexualité",
+        "La sapiosexualité"
+      ]
+    },
     ```
 4. Enregistrez vos modifications.
 
@@ -60,10 +66,16 @@ Les questions et réponses sont stockées dans un fichier JSON situé dans le do
 3. Supprimez l'entrée correspondante. Exemple :
     ```json
     {
-         "question": "Quel est le capital de la France ?",
-         "answers": ["Paris", "Lyon", "Marseille"],
-         "correctAnswer": "Paris"
-    }
+      "question": "Quelles orientations sexuelles connaissez-vous ?",
+      "reponses": [
+        "L'hétérosexualité",
+        "L'homosexualité",
+        "La bisexualité",
+        "L'asexualité",
+        "La pansexualité",
+        "La sapiosexualité"
+      ]
+    },
     ```
 4. Enregistrez vos modifications.
 
